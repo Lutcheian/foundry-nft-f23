@@ -1,0 +1,18 @@
+# Compiler files
+cache/
+out/
+
+# Development files
+.logs/
+.ignore/
+
+# Deployment records and broadcast files
+broadcast/
+
+# Documentation
+docs/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
